@@ -1,3 +1,5 @@
 # flutter_note
 
-renye flutter  study notes
+renye flutter  study notes.
+
+please watch Wiki.
