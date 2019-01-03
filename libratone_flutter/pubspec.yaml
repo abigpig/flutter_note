@@ -1,0 +1,34 @@
+name: libratone_flutter
+description: A new flutter module project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  flutter_webview_plugin:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/btn_back.png
+    - lib/locale/language/language_en.json
+    - lib/locale/language/language_fr.json
+    - lib/locale/language/language_de.json
+    - lib/locale/language/language_es.json
+    - lib/locale/language/language_ja.json
+    - lib/locale/language/language_ko.json
+    - lib/locale/language/language_zh.json
+    - lib/locale/language/language_HK.json
+    - lib/locale/language/language_TW.json
